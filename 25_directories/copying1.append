@@ -1,0 +1,4 @@
+<?php
+
+unlink('/tmp/yesterday.txt');
+unlink('/tmp/today.txt');

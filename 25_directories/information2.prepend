@@ -1,0 +1,3 @@
+<?php
+
+touch('/tmp/session.txt');

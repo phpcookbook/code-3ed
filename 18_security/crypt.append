@@ -1,0 +1,4 @@
+<?php
+$stmt = $db->query("SELECT password FROM users WHERE username = 'alice'");
+$hp = $stmt->fetchColumn();
+var_dump((strlen($salt) == 29) && ($hp === crypt('bob', $salt)) && (substr($salt, 0, 28) === substr($hp, 0, 28)));

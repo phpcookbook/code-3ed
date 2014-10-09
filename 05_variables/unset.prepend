@@ -1,0 +1,4 @@
+<?php
+$vegetables = 'hello';
+$fruits = array(12 => 'something');
+$earth = $moon = $stars = 'blub';

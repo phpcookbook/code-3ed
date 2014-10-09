@@ -1,0 +1,3 @@
+<?php
+$jokebook = 'alice';
+$error_code = 'bob';

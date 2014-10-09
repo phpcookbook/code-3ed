@@ -1,0 +1,6 @@
+<?php
+$_POST['username'] = 'alice';
+$_POST['password'] = 'bob';
+$db = new PDO('sqlite::memory:');
+$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$db->exec('CREATE TABLE users (username TEXT, password TEXT)');

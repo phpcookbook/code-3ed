@@ -1,0 +1,2 @@
+<?php
+$largest = max($array);

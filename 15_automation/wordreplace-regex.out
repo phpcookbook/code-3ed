@@ -1,0 +1,8 @@
+
+<p>I like <span class='word-0'>pickle</span>s and <span class='word-1'>herring</span>.</p>
+
+<a href="pickle.php"><img src="pickle.jpg"/>A <span class='word-0'>pickle</span> picture</a>
+
+I have a <span class='word-1'>herring</span>bone-patterned toaster cozy.
+
+<herring><span class='word-1'>Herring</span> is not a real HTML element!</herring>

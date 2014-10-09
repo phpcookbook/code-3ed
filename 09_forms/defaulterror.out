@@ -1,0 +1,17 @@
+<form action='{{*}}' method='post'>
+<dl>
+<dt>Your Name:</dt>
+  <dd class="error">Enter a name of at least 3 letters</dd>
+<dd><input type='text' name='name'
+     value=''/></dd>
+<dt>Are you over 18 years old?</dt>
+<dd><input type='checkbox' name='age' value='1' /> Yes</dd>
+<dt>Your favorite ice cream flavor:</dt>
+<dd><select name='flavor'>
+<option >Vanilla</option>
+<option >Chocolate</option>
+<option >Rhinoceros</option>
+</select></dd>
+</dl>
+<input type='submit' value='Send Info'/>
+</form>

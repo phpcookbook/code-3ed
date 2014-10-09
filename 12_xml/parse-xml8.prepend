@@ -1,0 +1,2 @@
+<?php
+$catalog = file_get_contents(__DIR__ . '/card-catalog.xml');

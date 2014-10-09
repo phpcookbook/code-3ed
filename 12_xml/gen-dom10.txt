@@ -1,0 +1,5 @@
+// put the string representation of the XML document in $books
+$books = $dom->saveXML();
+
+// write the XML document to books.xml
+$dom->save('books.xml');

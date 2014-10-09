@@ -1,0 +1,6 @@
+<?php
+$row = $db->query("SELECT * FROM noc_list")->fetch();
+var_dump(($row['algorithm'] === MCRYPT_BLOWFISH) &&
+         ($row['mode'] === MCRYPT_MODE_CBC) &&
+         ($row['iv'] === $iv) &&
+         ($row['data'] === $ciphertext));

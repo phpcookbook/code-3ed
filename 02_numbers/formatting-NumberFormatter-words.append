@@ -1,0 +1,2 @@
+<?php
+assert($formatted == "mille deux cent trente-quatre virgule cinq six", $formatted);

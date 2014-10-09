@@ -1,0 +1,4 @@
+<?php
+
+unlink('shemp.php');
+unlink('joe.php');

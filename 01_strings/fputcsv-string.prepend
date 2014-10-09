@@ -1,0 +1,3 @@
+<?php
+
+$out = file_get_contents(__DIR__ . '/fputcsv-print.out');

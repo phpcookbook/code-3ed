@@ -1,0 +1,2 @@
+<?php
+putenv("GNUPGHOME=".__DIR__);

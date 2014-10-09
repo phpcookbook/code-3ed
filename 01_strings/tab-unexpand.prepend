@@ -1,0 +1,6 @@
+<?php
+$obj = new StdClass;
+$obj->message = "        spaced";
+
+include __DIR__ . '/tab-expand.php';
+

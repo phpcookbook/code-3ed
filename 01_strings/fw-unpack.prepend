@@ -1,0 +1,5 @@
+<?php
+
+function process_fields($fields) {
+	print "$fields[title]:$fields[author]:$fields[publication_year]\n";
+}

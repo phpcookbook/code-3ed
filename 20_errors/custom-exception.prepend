@@ -1,0 +1,9 @@
+<?php
+define('SOME_DEFINED_ERROR_CODE', 12);
+define('OTHER_DEFINED_ERROR_CODE', 13);
+
+class CoolThirdPartyPackage {
+      public function __construct() {
+          throw new Exception("beep", SOME_DEFINED_ERROR_CODE);
+      }
+}

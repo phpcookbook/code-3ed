@@ -1,0 +1,5 @@
+<programlisting><userinput>Running 1 tests
+PASS str_replace() function[str_replace.phpt]
+TOTAL TIME: 00:00
+1 PASSED TESTS
+0 SKIPPED TESTS</userinput></programlisting>

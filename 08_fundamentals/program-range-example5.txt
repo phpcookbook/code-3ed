@@ -1,0 +1,21 @@
+<programlisting><userinput>$ curl -v -H 'Range: bytes=20-24' http://localhost:8000/range.php
+* About to connect() to localhost port 8000 (#0)
+*   Trying ::1...
+* connected
+* Connected to localhost (::1) port 8000 (#0)
+&gt; GET /range.php HTTP/1.1
+&gt; User-Agent: curl/7.24.0
+&gt; Host: localhost:8000
+&gt; Accept: */*
+&gt; Range: bytes=20-24
+&gt; 
+[Sun Aug 18 14:32:17 2013] Client requested no valid ranges.
+[Sun Aug 18 14:32:17 2013] ::1:59806 [416]: /range.php
+&lt; HTTP/1.1 416 Requested Range Not Satisfiable
+&lt; Host: localhost:8000
+&lt; Connection: close
+&lt; X-Powered-By: PHP/5.4.9
+&lt; Content-Range: bytes */10
+&lt; Content-type: text/html
+&lt; 
+* Closing connection #0</userinput></programlisting>

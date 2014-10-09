@@ -1,0 +1,8 @@
+<programlisting><userinput>Is the integer 5 numeric? yes
+Is the string 5 numeric? yes
+Is the string 05 numeric? yes
+Is the double 12.3 numeric? yes
+Is the string 16.7 numeric? yes
+Is the string five numeric? no
+Is the integer 3737844653 numeric? yes
+Is the string 10e200 numeric? yes</userinput></programlisting>

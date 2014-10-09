@@ -1,0 +1,2 @@
+<?php
+$_COOKIE['name'] = 'beep|'.hash_hmac('sha1','beep','flyingturtle');

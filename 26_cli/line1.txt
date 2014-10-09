@@ -1,0 +1,5 @@
+<programlisting>% php -R 'if (preg_match("/$argv[1]/", $argn)) print "$argn\n";'
+      php 
+      &lt; /usr/share/dict/words
+
+<userinput>ephphatha</userinput></programlisting>

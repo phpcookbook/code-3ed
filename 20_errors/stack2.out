@@ -1,0 +1,5 @@
+woo woo woo!
+#0  moe() called at [backtrace.php:12]
+#1  curly() called at [backtrace.php:8]
+#2  larry() called at [backtrace.php:4]
+#3  stooges() called at [backtrace.php:19]

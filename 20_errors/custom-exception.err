@@ -1,0 +1,5 @@
+------------------------------------------------
+CustomException: [12]: beep
+#0 {{*}}(50): CoolThirdPartyPackage->__construct()
+#1 {main}
+

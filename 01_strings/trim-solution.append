@@ -1,0 +1,4 @@
+<?php
+assert($zipcode === '02139', "Zipcode");
+assert($no_linefeed === 'text', "Text");
+assert($name === 'Name ', "Name");

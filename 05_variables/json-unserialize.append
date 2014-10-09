@@ -1,0 +1,2 @@
+<?php
+assert($new_pantry === array('sugar' => '2 lbs.','butter' => '3 sticks'));

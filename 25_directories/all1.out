@@ -1,0 +1,6 @@
+<programlisting><userinput>&lt;select name='file'&gt;
+&lt;option&gt;.&lt;/option&gt;
+&lt;option&gt;..&lt;/option&gt;
+&lt;option&gt;cucumber.gif&lt;/option&gt;
+&lt;option&gt;eggplant.png&lt;/option&gt;
+&lt;/select&gt;</userinput></programlisting>

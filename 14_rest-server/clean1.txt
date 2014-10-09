@@ -1,0 +1,5 @@
+<programlisting><userinput>RewriteEngine on
+RewriteBase /v1/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?PATH_INFO=$1 [L,QSA]</userinput></programlisting>

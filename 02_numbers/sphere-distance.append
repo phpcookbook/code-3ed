@@ -1,0 +1,2 @@
+<?php
+assert($formatted === "2570.18");

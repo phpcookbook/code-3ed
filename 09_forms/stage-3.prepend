@@ -1,0 +1,6 @@
+<?php
+session_start();
+$_SESSION['name'] = 'Alice';
+$_SESSION['age'] = 15;
+$_SESSION['color'] = 'blue';
+$_SESSION['food'] = 'cucumbers';

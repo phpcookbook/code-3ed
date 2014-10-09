@@ -1,0 +1,3 @@
+<?php
+
+$births = $deaths = $immigrants = $emigrants = 12;

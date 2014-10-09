@@ -1,0 +1,2 @@
+<?php
+assert(abs($cosine) < 0.000000001, "cosine of 90 degrees is 0");

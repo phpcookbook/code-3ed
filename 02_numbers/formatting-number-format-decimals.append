@@ -1,0 +1,2 @@
+<?php
+assert($formatted === "31,415.92653"); // your number

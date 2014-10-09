@@ -1,0 +1,18 @@
+<style type="text/css">
+.prev { text-align: left; }
+.next { text-align: right; }
+.day, .month, .weekday { text-align: center; }
+.today { background: yellow; }
+.blank { }
+</style>
+<table id="calendar">
+         <tr>
+         <td class="prev"><a href="{{*}}?month=8&amp;year=2015">&laquo;</a></td>
+         <td class="month" colspan="5">September 2015</td>
+         <td class="next"><a href="{{*}}?month=10&amp;year=2015">&raquo;</a></td>
+         </tr><tr><td class="weekday">Su</td><td class="weekday">Mo</td><td class="weekday">Tu</td><td class="weekday">We</td><td class="weekday">Th</td><td class="weekday">Fr</td><td class="weekday">Sa</td></tr>
+<tr><td class="blank">&nbsp;</td><td class="blank">&nbsp;</td><td class="day">1</td><td class="day">2</td><td class="day">3</td><td class="day">4</td><td class="day">5</td></tr>
+<tr><td class="day">6</td><td class="day">7</td><td class="day">8</td><td class="day">9</td><td class="day">10</td><td class="day">11</td><td class="day">12</td></tr>
+<tr><td class="day">13</td><td class="day">14</td><td class="day">15</td><td class="day">16</td><td class="day">17</td><td class="day">18</td><td class="day">19</td></tr>
+<tr><td class="day">20</td><td class="day">21</td><td class="day">22</td><td class="day">23</td><td class="day">24</td><td class="day">25</td><td class="day">26</td></tr>
+<tr><td class="day">27</td><td class="day">28</td><td class="day">29</td><td class="day">30</td><td class="blank">&nbsp;</td><td class="blank">&nbsp;</td><td class="blank">&nbsp;</td></table>

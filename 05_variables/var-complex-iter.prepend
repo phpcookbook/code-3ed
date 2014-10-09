@@ -1,0 +1,5 @@
+<?php
+$n = 2;
+$title = 'blub';
+$title_1 = 'beep';
+$title_2 = 'toot';

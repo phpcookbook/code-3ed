@@ -1,0 +1,4 @@
+<?php
+$dom = new DOMDocument;
+$dom->loadXML('<book cover="soft">PHP Cookbook</book>');
+$node = $dom->firstChild;

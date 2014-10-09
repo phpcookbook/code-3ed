@@ -1,0 +1,4 @@
+<?php
+assert(abs($secant - 1.53951) < 0.00001, "secant of 0.707 is about 1.53951");
+assert(abs($cosecant - 1.31524) < 0.00001, "cosecant of 0.707 is about 1.31524");
+assert(abs($cotangent - 1.17051) < 0.00001, "cotangent of 0.707 is about 1.17051");

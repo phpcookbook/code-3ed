@@ -1,0 +1,2 @@
+<?php
+var_dump($opts1, $opts2);

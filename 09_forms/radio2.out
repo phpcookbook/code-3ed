@@ -1,0 +1,3 @@
+<input type='radio' name='food' value='eggs'/> Eggs Benedict 
+<input type='radio' name='food' value='toast' checked="checked"/> Buttered Toast with Jam 
+<input type='radio' name='food' value='coffee'/> Piping Hot Coffee 

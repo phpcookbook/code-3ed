@@ -1,0 +1,2 @@
+<?php
+assert($then->getTimestamp() === 163727103, "Epoch timestamp for four hours before GMT");

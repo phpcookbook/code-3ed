@@ -1,0 +1,7 @@
+<?php
+include __DIR__ . '/images1.php';
+$locale = 'en_US';
+$messages = array('en_US' => array('cancel.png' => 'cancel.png',
+          'CANCEL' => 'Cancel',
+          'CANCEL_IMG_HEIGHT' => 10,
+          'CANCEL_IMG_WIDTH' => 20));

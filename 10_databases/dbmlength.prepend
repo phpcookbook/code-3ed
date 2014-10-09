@@ -1,0 +1,7 @@
+<?php
+$data_file = '/tmp/users.db';
+if (is_readable($data_file)) { unlink($data_file); }
+$db = dba_open($data_file,'n','db4');
+dba_replace('alice','bob', $db);
+dba_replace('ralph','charlie', $db);
+dba_close($db);

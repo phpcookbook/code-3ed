@@ -1,0 +1,14 @@
+<programlisting><userinput>array(6) {
+  [0]=&gt;
+  string(6) "at bat"
+  [1]=&gt;
+  string(6) "at bat"
+  [2]=&gt;
+  string(6) "at bat"
+  [3]=&gt;
+  string(6) "at bat"
+  [4]=&gt;
+  string(6) "at bat"
+  [5]=&gt;
+  string(10) "strike out"
+}</userinput></programlisting>

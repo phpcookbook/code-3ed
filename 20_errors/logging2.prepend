@@ -1,0 +1,5 @@
+<?php
+function mysql_query($arg) { return false; }
+function mysql_error() { return '!'; }
+$_SERVER['REQUEST_URI'] = '';
+$sql = '';

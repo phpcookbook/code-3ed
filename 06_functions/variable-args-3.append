@@ -1,0 +1,2 @@
+<?php
+ assert($mean === 96.25, "Mean should be 96.25");

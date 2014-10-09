@@ -1,0 +1,2 @@
+<?php
+assert($then === 163712703, "Epoch timestamp for GMT");

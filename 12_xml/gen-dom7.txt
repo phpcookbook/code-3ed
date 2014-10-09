@@ -1,0 +1,5 @@
+$title_element = $dom->createElement('title');
+$text_node = $dom->createTextNode('PHP Cookbook');
+
+$title_element->appendChild($text_node);
+$book->appendChild($title_element);

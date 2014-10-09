@@ -1,0 +1,2 @@
+<?php
+assert(abs($log - 2.30258092994) <= 0.00001, "log base e of 10 is about 2.3");

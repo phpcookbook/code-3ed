@@ -1,0 +1,3 @@
+<?php
+$_POST['name'] = 'Kurt Gödel';
+$_POST['dinner'] = '불고기';

@@ -1,0 +1,9 @@
+<programlisting><userinput>Matches: 8
+$thisFileContents
+$matchCount
+$thisFileContents
+$matches
+$matchCount
+$matches
+$variableName
+$variableName</userinput></programlisting>

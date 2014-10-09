@@ -1,0 +1,3 @@
+<?php
+$db = new PDO("sqlite::memory:");
+$db->exec("CREATE TABLE files (path varchar(255), contents blob)");

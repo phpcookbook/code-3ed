@@ -1,0 +1,2 @@
+<?php
+file_put_contents(strftime('/usr/local/account-activity.%Y-%m-%d', time() - 86400), "hi\nthere");

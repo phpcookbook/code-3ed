@@ -1,0 +1,3 @@
+<?php
+$array = [3 => 'a', 'foo' => 'b', 5 => 'c', 'bar' => 'd'];
+$offset = $length = 1;

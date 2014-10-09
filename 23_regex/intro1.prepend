@@ -1,0 +1,3 @@
+<?php
+$html = '<title>beep</title><li>hi</li>';
+$bold = '<b>foo</b>';

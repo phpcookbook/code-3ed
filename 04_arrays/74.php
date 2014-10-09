@@ -1,0 +1,2 @@
+<?php
+$smallest = min($array);

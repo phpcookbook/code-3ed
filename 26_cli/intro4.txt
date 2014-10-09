@@ -1,0 +1,1 @@
+% php -d output_buffering=1 scan-discussions.php

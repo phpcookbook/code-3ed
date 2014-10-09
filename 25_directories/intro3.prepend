@@ -1,0 +1,9 @@
+<?php
+
+rmdir('/usr/local/images');
+rmdir('/www');
+rmdir('/www/docroot');
+
+mkdir('/usr/local/images');
+mkdir('/www');
+mkdir('/www/docroot');

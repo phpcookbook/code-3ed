@@ -1,0 +1,1 @@
+-rw-rw-r--    1 sklar    sklar          12 Oct 23 17:55 /tmp/session.txt

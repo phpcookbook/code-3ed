@@ -1,0 +1,3 @@
+<?php
+assert($response1 === "You must enter your favorite ice cream flavor.Color must be more than 5 characters.You must select some choices.", $response1);
+assert($response2 === "", $response2);

@@ -1,0 +1,2 @@
+$text_node = $dom->createTextNode('PHP Cookbook');
+$title->appendChild($text_node);

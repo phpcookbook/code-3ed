@@ -1,0 +1,7 @@
+<?php
+$db = new PDO('sqlite::memory:');
+$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$db->exec('CREATE TABLE noc_list (id INT, algorithm TEXT, data TEXT, mode TEXT, iv
+ TEXT)');
+$_POST['key'] = 'fish';
+$_POST['data'] = 'food';

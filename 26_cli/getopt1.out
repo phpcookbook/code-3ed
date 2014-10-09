@@ -1,0 +1,12 @@
+array(3) {
+  ["a"]=>
+  bool(false)
+  ["b"]=>
+  bool(false)
+  ["c"]=>
+  bool(false)
+}
+array(1) {
+  ["alice"]=>
+  bool(false)
+}

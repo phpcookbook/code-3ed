@@ -1,0 +1,5 @@
+<?php
+
+function process_fields($fields) {
+	print "$fields[1]:$fields[2]:$fields[3]\n";
+}

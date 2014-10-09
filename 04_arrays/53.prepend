@@ -1,0 +1,2 @@
+<?php
+$p_languages = array('Perl', 'PHP');

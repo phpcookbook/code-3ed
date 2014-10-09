@@ -1,0 +1,2 @@
+<?php
+if (is_readable(__DIR__.'/fish.db')) { unlink(__DIR__ . '/fish.db'); }

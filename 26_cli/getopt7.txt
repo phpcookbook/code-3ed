@@ -1,0 +1,6 @@
+array(2) {
+  ["a"]=>
+  bool(false)
+  ["b"]=>
+  string(6) "sneeze"
+}

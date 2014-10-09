@@ -1,0 +1,2 @@
+<?php
+$html = '<em>alice</em> <b><em>bob<b>foo</b>charlie</em>';

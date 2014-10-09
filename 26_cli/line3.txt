@@ -1,0 +1,1 @@
+<programlisting><userinput>php -R 'print strip_tags($argn) . "\n"; ' &lt; index.html</userinput></programlisting>

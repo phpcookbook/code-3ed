@@ -1,0 +1,2 @@
+<?php
+assert($total === 4);

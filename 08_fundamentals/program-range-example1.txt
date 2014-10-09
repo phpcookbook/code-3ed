@@ -1,0 +1,20 @@
+<programlisting><userinput>$ curl -v http://localhost:8000/range.php
+* About to connect() to localhost port 8000 (#0)
+*   Trying ::1...
+* connected
+* Connected to localhost (::1) port 8000 (#0)
+&gt; GET /range.php HTTP/1.1
+&gt; User-Agent: curl/7.24.0
+&gt; Host: localhost:8000
+&gt; Accept: */*
+&gt; 
+[Sun Aug 18 14:33:36 2013] ::1:59812 [200]: /range.php
+&lt; HTTP/1.1 200 OK
+&lt; Host: localhost:8000
+&lt; Connection: close
+&lt; X-Powered-By: PHP/5.4.9
+&lt; Content-Type: text/plain
+&lt; Content-Length: 10
+&lt; 
+* Closing connection #0
+0123456789</userinput></programlisting>

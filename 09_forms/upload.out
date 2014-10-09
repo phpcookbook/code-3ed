@@ -1,0 +1,5 @@
+<form method="post" action="{{*}}"
+      enctype="multipart/form-data">
+<input type="file" name="document"/>
+<input type="submit" value="Send File"/>
+</form>

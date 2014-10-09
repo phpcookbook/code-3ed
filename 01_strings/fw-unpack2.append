@@ -1,0 +1,2 @@
+<?php
+print_r($book_array);

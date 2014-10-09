@@ -1,0 +1,14 @@
+Array
+(
+    [red] => Array
+        (
+            [0] => strawberry
+            [1] => apple
+        )
+
+    [yellow] => Array
+        (
+            [0] => banana
+        )
+
+)

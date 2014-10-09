@@ -1,0 +1,5 @@
+<?php
+$_GET['planet'] = 'Mars';
+if (! is_readable('/tmp/zodiac.db')) {
+   copy(__DIR__ . '/zodiac.db', '/tmp/zodiac.db');
+}

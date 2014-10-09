@@ -1,0 +1,4 @@
+; Default timeout for socket based streams (seconds)
+; http://php.net/default-socket-timeout
+default_socket_timeout = 2
+

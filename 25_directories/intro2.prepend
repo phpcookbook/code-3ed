@@ -1,0 +1,5 @@
+<?php
+
+mkdir('/usr/local/images');
+touch('/usr/local/images/cucumber.gif');
+touch('/usr/local/images/eggplant.png');

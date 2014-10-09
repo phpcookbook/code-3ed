@@ -1,0 +1,39 @@
+<programlisting><userinput>$bothMatches is: array(3) {
+  [0]=&gt;
+  array(2) {
+    [0]=&gt;
+    string(49) "rel="prev" href="http://www.example.com/prev.xml""
+    [1]=&gt;
+    string(49) "rel="next" href="http://www.example.com/next.xml""
+  }
+  [1]=&gt;
+  array(2) {
+    [0]=&gt;
+    string(4) "prev"
+    [1]=&gt;
+    string(4) "next"
+  }
+  [2]=&gt;
+  array(2) {
+    [0]=&gt;
+    string(31) "http://www.example.com/prev.xml"
+    [1]=&gt;
+    string(31) "http://www.example.com/next.xml"
+  }
+}
+$linkMatches is: array(2) {
+  [0]=&gt;
+  array(2) {
+    [0]=&gt;
+    string(49) "rel="prev" href="http://www.example.com/prev.xml""
+    [1]=&gt;
+    string(49) "rel="next" href="http://www.example.com/next.xml""
+  }
+  [1]=&gt;
+  array(2) {
+    [0]=&gt;
+    string(31) "http://www.example.com/prev.xml"
+    [1]=&gt;
+    string(31) "http://www.example.com/next.xml"
+  }
+}</userinput></programlisting>

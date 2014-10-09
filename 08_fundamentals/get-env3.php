@@ -1,0 +1,2 @@
+<?php
+$path = getenv('PATH');

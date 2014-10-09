@@ -1,0 +1,4 @@
+<programlisting><userinput>&lt;a href="foo"&gt;this is some stuff&lt;/a&gt;
+&lt;p&gt;This should be OK, as &lt;a href="beep"&gt;well&lt;/a&gt; as this.&lt;/p&gt;
+
+&lt;p&gt;But this  stuff has the script removed.&lt;/p&gt;</userinput></programlisting>

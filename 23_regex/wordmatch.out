@@ -1,0 +1,14 @@
+array(6) {
+  [0]=>
+  string(5) "Knock"
+  [1]=>
+  string(5) "knock"
+  [2]=>
+  string(3) "Who"
+  [3]=>
+  string(1) "s"
+  [4]=>
+  string(5) "there"
+  [5]=>
+  string(4) "r2d2"
+}

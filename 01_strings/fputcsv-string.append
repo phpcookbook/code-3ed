@@ -1,0 +1,3 @@
+<?php
+
+assert($output === $out, "fputcsv data");

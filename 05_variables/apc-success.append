@@ -1,0 +1,3 @@
+<?php
+assert($results === false, "The stored value was false.");
+assert($success === true, "The call to apc_fetch() succeeded.");

@@ -1,0 +1,9 @@
+<programlisting><userinput>array (
+  'name' =&gt; 'frank',
+  0 =&gt; 12.6,
+  1 =&gt; 
+  array (
+    0 =&gt; 3,
+    1 =&gt; 4,
+  ),
+)</userinput></programlisting>

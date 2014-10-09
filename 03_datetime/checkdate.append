@@ -1,0 +1,3 @@
+<?php
+assert($ok === TRUE, "March 10, 1993 is a valid date.");
+assert($not_ok === FALSE, "February 30, 1962 is not a valid date.");

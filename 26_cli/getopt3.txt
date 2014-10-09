@@ -1,0 +1,3 @@
+% program.php -a -b -c
+% program.php -abc
+% program.php -ab -c

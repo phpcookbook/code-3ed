@@ -1,0 +1,2 @@
+<?php
+include __DIR__.'/abstract3.php';

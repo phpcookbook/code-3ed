@@ -1,0 +1,2 @@
+<?php
+var_dump($encrypted_body);

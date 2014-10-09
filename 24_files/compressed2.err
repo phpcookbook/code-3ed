@@ -1,0 +1,1 @@
+PHP Warning:  fopen(http://www.example.com/something-compressed.bz2): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found in /Users/atrachte/Source/php-cookbook/php-cookbook/files/compressed2.php on line 2

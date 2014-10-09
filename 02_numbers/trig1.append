@@ -1,0 +1,2 @@
+<?php
+assert($result === 1.0, "");

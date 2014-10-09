@@ -1,0 +1,10 @@
+POST /v1/jobs HTTP/1.1
+Host: api.example.com
+Content-Type: application/json
+Content-Length: 49
+
+{
+    "position": {
+        "title": "PHP Developer"
+    }
+}

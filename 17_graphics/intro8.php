@@ -1,0 +1,2 @@
+<?php
+ImageDestroy($image);

@@ -1,0 +1,2 @@
+<?php
+assert($formatted === "€1,234.56", "US uses € , and . for Euro");

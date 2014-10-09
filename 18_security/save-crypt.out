@@ -1,0 +1,7 @@
+<form method="POST" action="{{*}}">
+<textarea name="data" rows="10" cols="40">Enter data to be encrypted here.</textarea>
+<br />
+Encryption Key: <input type="text" name="key" />
+<br />
+<input name="submit" type="submit" value="Save" />
+</form>

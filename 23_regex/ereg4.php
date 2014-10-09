@@ -1,0 +1,2 @@
+<?php
+ereg('pattern', 'string');

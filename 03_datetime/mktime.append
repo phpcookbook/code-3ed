@@ -1,0 +1,2 @@
+<?php
+assert($then === 163727103, "Epoch timestamp for America/New_York");

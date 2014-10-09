@@ -1,0 +1,23 @@
+<programlisting>% php dom-explorer.php http://www.php.net
+/html &gt; ls
+<userinput>head body</userinput>
+/html &gt; ls head
+<userinput>title style[1] comment()[1] style[2] comment()[2] meta link[1] link[2] link[3] <?pdf-cr?>script[1] link[4] script[2]</userinput>
+/html &gt; cat head/title
+<userinput>PHP: Hypertext Preprocessor</userinput>
+/html &gt; cd body
+/html/body &gt; ls
+<userinput>text()[1] div[1] text()[2] div[2] text()[3] div[3] text()[4] div[4] text()[5] <?pdf-cr?>div[5] text()[6] div[6] text()[7] script comment()</userinput>
+/html/body &gt; cd div[2]
+/html/body/div[2] &gt; ls
+<userinput>a text()[1] div text()[2]</userinput>
+/html/body/div[2] &gt; cat a
+
+/html/body/div[2] &gt; cat div
+<userinput>downloads |
+documentation | faq
+| getting help | mailing lists | licenses | wiki
+| reporting bugs | php.net sites | conferences | my
+php.net</userinput>
+/html/body/div[2] &gt; exit
+</programlisting>

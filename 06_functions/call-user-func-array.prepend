@@ -1,0 +1,3 @@
+<?php
+$action = 'get';
+touch("graphic.png");

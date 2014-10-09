@@ -1,0 +1,2 @@
+$title_element = $dom->createElement('title');
+$title = $book->appendChild($title_element);

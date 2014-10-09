@@ -1,0 +1,1 @@
+<programlisting><userinput>PHP Notice:  iconv(): Detected an illegal character in input string...</userinput></programlisting>

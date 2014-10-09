@@ -1,0 +1,3 @@
+<?php
+$offset = 5;
+$per_page = 3;

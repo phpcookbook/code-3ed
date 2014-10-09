@@ -1,0 +1,5 @@
+<?php
+$age = filter_input(INPUT_POST, 'age', FILTER_VALIDATE_INT);
+if ($age === false) {
+   print "Submitted age is invalid.";
+}

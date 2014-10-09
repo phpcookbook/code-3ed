@@ -1,0 +1,5 @@
+<?php
+
+unlink('/usr/local/images/cucumber.gif');
+unlink('/usr/local/images/eggplant.png');
+rmdir('/usr/local/images');

@@ -1,0 +1,2 @@
+<?php
+$image = ImageCreate(200, 50);

@@ -1,0 +1,6 @@
+<?php
+
+$old_string = 'adam';
+$new_substring = 'ad';
+$start = 1;
+$length = 1;

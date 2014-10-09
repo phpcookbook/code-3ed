@@ -1,0 +1,3 @@
+<?php
+$_POST['rating'] = '-1254';
+$_POST['temperature'] = '-43.273';

@@ -1,0 +1,4 @@
+<?php
+$_POST['month'] = '3';
+$_POST['day'] = '5';
+$_POST['year'] = '1990';

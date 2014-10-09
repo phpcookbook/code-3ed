@@ -1,0 +1,2 @@
+<?php
+var_dump($clean['id'] === $_POST['id']);

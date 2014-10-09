@@ -1,0 +1,3 @@
+<?php
+$_GET['fruits'] = ['pear' => 'p', 'orange' => 'o'];
+$array = ['apple' => 'a'];

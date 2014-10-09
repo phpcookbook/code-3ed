@@ -1,0 +1,6 @@
+@<form action="buy\.php" method="POST">
+<input type="hidden" name="token" value="[a-f0-9]{32}" />
+<p>Stock Symbol: <input type="text" name="symbol" /></p>
+<p>Quantity: <input type="text" name="quantity" /></p>
+<p><input type="submit" value="Buy Stocks" /></p>
+</form>@

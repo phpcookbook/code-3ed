@@ -1,0 +1,5 @@
+woo woo woo!
+#0  moe() called at [{{*}}:12]
+#1  curly() called at [{{*}}:8]
+#2  larry() called at [{{*}}:4]
+#3  stooges() called at [{{*}}:19]

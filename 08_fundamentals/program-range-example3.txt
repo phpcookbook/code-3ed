@@ -1,0 +1,22 @@
+<programlisting><userinput>$ curl -v -H 'Range: bytes=-5' http://localhost:8000/range.php
+* About to connect() to localhost port 8000 (#0)
+*   Trying ::1...
+* connected
+* Connected to localhost (::1) port 8000 (#0)
+&gt; GET /range.php HTTP/1.1
+&gt; User-Agent: curl/7.24.0
+&gt; Host: localhost:8000
+&gt; Accept: */*
+&gt; Range: bytes=-5
+&gt; 
+[Sun Aug 18 14:30:33 2013] ::1:59796 [206]: /range.php
+&lt; HTTP/1.1 206 Partial Content
+&lt; Host: localhost:8000
+&lt; Connection: close
+&lt; X-Powered-By: PHP/5.4.9
+&lt; Content-Range: bytes 5-9/10
+&lt; Content-Type: text/plain
+&lt; Content-Length: 5
+&lt; 
+* Closing connection #0
+56789</userinput></programlisting>

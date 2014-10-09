@@ -1,0 +1,6 @@
+<programlisting><userinput>Array
+(
+    [red] =&gt; 255
+    [green] =&gt; 255
+    [blue] =&gt; 255
+)</userinput></programlisting>

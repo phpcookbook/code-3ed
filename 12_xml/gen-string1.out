@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<shows>
+    <show>
+        <name>Modern Family</name>
+        <channel>ABC</channel>
+        <start>9:00 PM</start>
+        <duration>30</duration>
+    </show>
+    <show>
+        <name>Law &amp; Order: SVU</name>
+        <channel>NBC</channel>
+        <start>9:00 PM</start>
+        <duration>60</duration>
+    </show>
+</shows>

@@ -1,0 +1,19 @@
+<?php
+// Making sure $_POST['flavor'] exists before checking its length
+if (! (filter_has_var(INPUT_POST, 'flavor') &&
+       (strlen(filter_input(INPUT_POST, 'flavor')) > 0))) {
+    print 'You must enter your favorite ice cream flavor.';
+}
+
+// $_POST['color'] is optional, but if it's supplied, it must be
+// more than 5 characters after being sanitized
+if (filter_has_var(INPUT_POST, 'color') &&
+    (strlen(filter_input(INPUT_POST, 'color', FILTER_SANITIZE_STRING)) <= 5)) {
+    print 'Color must be more than 5 characters.';
+}
+
+// Making sure $_POST['choices'] exists and is an array
+if (! (filter_has_var(INPUT_POST, 'choices') &&
+       filter_input(INPUT_POST, 'choices', FILTER_DEFAULT, FILTER_REQUIRE_ARRAY))) {
+    print 'You must select some choices.';
+}

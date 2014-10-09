@@ -1,0 +1,2 @@
+<?php
+$rasmus = $zeev;

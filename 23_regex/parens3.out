@@ -1,0 +1,16 @@
+$bothMatches is: array(2) {
+  [0]=>
+  array(2) {
+    [0]=>
+    string(66) "rel="prev" title="Previous" href="http://www.example.com/prev.xml""
+    [1]=>
+    string(49) "rel="next" href="http://www.example.com/next.xml""
+  }
+  [1]=>
+  array(2) {
+    [0]=>
+    string(31) "http://www.example.com/prev.xml"
+    [1]=>
+    string(31) "http://www.example.com/next.xml"
+  }
+}

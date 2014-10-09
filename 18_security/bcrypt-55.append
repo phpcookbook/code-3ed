@@ -1,0 +1,4 @@
+<?php
+$stmt = $db->query("SELECT password FROM users WHERE username = 'alice'");
+$hp = $stmt->fetchColumn();
+var_dump(password_verify('bob', $hp));

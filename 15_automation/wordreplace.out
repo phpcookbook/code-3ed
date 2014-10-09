@@ -1,0 +1,7 @@
+<programlisting language="html">&lt;p&gt;I like &lt;span class='word-0'&gt;pickle&lt;/span&gt;s and &lt;span class='word-1'&gt;<?pdf-cr?>herring&lt;/span&gt;.&lt;/p&gt;
+
+&lt;a href="pickle.php"&gt;&lt;img src="pickle.jpg"/&gt;A &lt;span class='word-0'&gt;pickle&lt;/span&gt;<?pdf-cr?> picture&lt;/a&gt;
+
+I have a &lt;span class='word-1'&gt;herring&lt;/span&gt;bone-patterned toaster cozy.
+
+&lt;herring&gt;Herring is not a real HTML element!&lt;/herring&gt;</programlisting>

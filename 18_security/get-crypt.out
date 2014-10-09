@@ -1,0 +1,7 @@
+<form method="POST" action="{{*}}">
+Encrypted File: <input type="text" name="file" />
+<br />
+Encryption Key: <input type="text" name="key" />
+<br />
+<input name="submit" type="submit" value="Display" />
+</form>

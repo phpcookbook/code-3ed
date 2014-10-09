@@ -1,0 +1,2 @@
+<?php
+$opts = getopt('abc');

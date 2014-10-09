@@ -1,0 +1,19 @@
+<programlisting><userinput>Array
+(
+    [FileName] =&gt; beth-and-seth.jpg
+    [FileDateTime] =&gt; 1096055414
+    [FileSize] =&gt; 182080
+    [FileType] =&gt; 2
+    [MimeType] =&gt; image/jpeg
+    [SectionsFound] =&gt; APP12
+    [COMPUTED] =&gt; Array
+        (
+            [html] =&gt; width="642" height="855"
+            [Height] =&gt; 855
+            [Width] =&gt; 642
+            [IsColor] =&gt; 1
+        )
+
+    [Company] =&gt; Ducky
+    [Info] =&gt; 
+)</userinput></programlisting>

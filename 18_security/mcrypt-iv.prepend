@@ -1,0 +1,3 @@
+<?php
+$algorithm = MCRYPT_BLOWFISH;
+$mode = MCRYPT_MODE_CBC;

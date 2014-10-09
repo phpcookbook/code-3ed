@@ -1,0 +1,7 @@
+<programlisting>% php -B '$count = 0;' 
+      -R 'if (preg_match("/$argv[1]/", $argn)) $count++;'
+      -E 'print "$count/$argi\n";'
+      php 
+      &lt; /usr/share/dict/words
+
+<userinput>1/234937</userinput></programlisting>

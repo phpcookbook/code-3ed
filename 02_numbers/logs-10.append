@@ -1,0 +1,2 @@
+<?php
+assert($log10 === 1.0, "log base 10 of 10 is 1");

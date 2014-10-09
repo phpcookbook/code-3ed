@@ -1,0 +1,9 @@
+array(1) {
+  [0]=>
+  array(2) {
+    [0]=>
+    string(14) "<em>alice</em>"
+    [1]=>
+    string(29) "<em>bob<b>foo</b>charlie</em>"
+  }
+}

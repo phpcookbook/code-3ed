@@ -1,0 +1,3 @@
+<?php
+$_POST['id'] = 'beep';
+$_POST['idcheck'] = hash_hmac('sha1','beep','flyingturtle');

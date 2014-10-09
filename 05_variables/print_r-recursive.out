@@ -1,0 +1,22 @@
+Array
+(
+    [name] => Leo Bloom
+    [username] => leo
+    [friend] => Array
+        (
+            [name] => Max Bialystock
+            [username] => max
+            [friend] => Array
+                (
+                    [name] => Leo Bloom
+                    [username] => leo
+                    [friend] => Array
+ *RECURSION*
+                    [job] => Accountant
+                )
+
+            [job] => Swindler
+        )
+
+    [job] => Accountant
+)

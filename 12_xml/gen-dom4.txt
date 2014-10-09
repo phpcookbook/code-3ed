@@ -1,0 +1,2 @@
+$book_element = $dom->createElement('book');
+$book = $dom->appendChild($book_element);

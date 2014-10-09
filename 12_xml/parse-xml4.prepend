@@ -1,0 +1,3 @@
+<?php
+$reader = new XMLReader();
+$reader->open(__DIR__ . '/card-catalog.xml');

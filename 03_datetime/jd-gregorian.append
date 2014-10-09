@@ -1,0 +1,11 @@
+<?php
+assert($jd === 2406323, "Julian day count is 2406323");
+assert($gregorian === array('date' => '3/9/1876',
+                            'month' => 3,
+                            'day' => 9,
+                            'year' => 1876,
+                            'dow' => 4,
+                            'abbrevdayname' => 'Thu',
+                            'dayname' => 'Thursday',
+                            'abbrevmonth' => 'Mar',
+                            'monthname' => 'March'));

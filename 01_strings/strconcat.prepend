@@ -1,0 +1,14 @@
+<?php
+$_POST['boys'] = '2';
+$_POST['girls'] = '3';
+$children = $_POST['boys'] + $_POST['girls'];
+$word = 'word';
+$amounts['payment'] = 123.45;
+class circle {
+	public $diameter = 42;
+	function getDiameter() {
+		return 42;
+	}
+}
+
+$circle = new circle;

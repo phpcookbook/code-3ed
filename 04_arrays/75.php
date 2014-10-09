@@ -1,0 +1,2 @@
+<?php
+arsort($array);

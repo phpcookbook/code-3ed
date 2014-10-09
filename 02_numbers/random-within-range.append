@@ -1,0 +1,3 @@
+<?php
+assert($random_number >= $lower, "$lower is the lower bound");
+assert($random_number <= $upper, "$upper is the upper bound");

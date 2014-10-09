@@ -1,0 +1,4 @@
+<?php
+$db = new PDO("sqlite::memory:");
+$db->exec("CREATE TABLE family (id int, name varchar(255), is_naive int)");
+$db->exec("INSERT INTO family (id, name, is_naive) VALUES (3, 'Sonny', 0)");

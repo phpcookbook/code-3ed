@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpunit/php-code-coverage": "2.1.*",
+        "guzzle/guzzle": ">=3.7.0",
+        "monolog/monolog": "1.7.0"
+    }
+}

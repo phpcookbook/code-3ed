@@ -1,0 +1,4 @@
+<?php
+require __DIR__ . '/calendar.php';
+$_GET['month'] = 9;
+$_GET['year'] = 2015;

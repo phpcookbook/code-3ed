@@ -1,0 +1,4 @@
+<programlisting><userinput>             total       used       free     shared    buffers     cached
+Mem:      16471704   15488260     983444          0     627820   12076120
+-/+ buffers/cache:    2784320   13687384
+Swap:            0          0          0</userinput></programlisting>

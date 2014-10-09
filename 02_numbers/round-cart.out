@@ -1,0 +1,2 @@
+<programlisting><userinput>Tax calculation uses all the digits it needs: 56.9415, but round() 
+trims it to two decimal places: 56.94</userinput></programlisting>

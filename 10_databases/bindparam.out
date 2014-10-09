@@ -1,0 +1,18 @@
+array(2) {
+  ["sign"]=>
+  string(7) "Scorpio"
+  [0]=>
+  string(7) "Scorpio"
+}
+array(2) {
+  ["sign"]=>
+  string(6) "Cancer"
+  [0]=>
+  string(6) "Cancer"
+}
+array(2) {
+  ["sign"]=>
+  string(3) "Leo"
+  [0]=>
+  string(3) "Leo"
+}

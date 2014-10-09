@@ -1,0 +1,6 @@
+% program.php --debug
+% program.php --name=Susannah
+% program.php --name Susannah
+% program.php --debug --size
+% program.php --size=56 --name=Susannah
+% program.php --name --debug

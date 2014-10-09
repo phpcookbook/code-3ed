@@ -1,0 +1,2 @@
+<?php
+$fruits['red'] = 'Strawberry';

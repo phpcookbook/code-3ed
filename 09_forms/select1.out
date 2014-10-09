@@ -1,0 +1,5 @@
+<select name='food'>
+<option>Eggs</option>
+<option>Toast</option>
+<option>Coffee</option>
+</select>

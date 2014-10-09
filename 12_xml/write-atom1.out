@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Channel Title</title>
+  <link href="http://www.example.org"/>
+  <updated>2006-10-23T22:33:59-07:00</updated>
+  <author>
+    <name>John Quincy Atom</name>
+  </author>
+  <id>http://example.org/atom/feed/ids/1</id>
+  <entry>
+    <title>Item 1</title>
+    <link>http://www.example.org/item1</link>
+    <id>http://example.org/atom/entry/ids/1</id>
+    <updated>2014-10-23T20:23:32-07:00</updated>
+    <summary>Item 1 Description</summary>
+  </entry>
+  <entry>
+    <title>Item 2</title>
+    <link>http://www.example.org/item2</link>
+    <id>http://example.org/atom/entry/ids/2</id>
+    <updated>2014-10-23T21:53:44-07:00</updated>
+    <summary>Item 2 Description</summary>
+  </entry>
+</feed>

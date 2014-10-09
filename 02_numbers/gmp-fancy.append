@@ -1,0 +1,5 @@
+<?php
+assert(gmp_strval($pow) === '1024');
+assert(gmp_strval($factorial) === '2432902008176640000');
+assert(gmp_strval($gcd) === '3');
+assert(gmp_strval($legendre) === '1');

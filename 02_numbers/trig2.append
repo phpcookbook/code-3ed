@@ -1,0 +1,2 @@
+<?php
+assert(abs($result - 0.665773) < 0.0001);

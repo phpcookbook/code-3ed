@@ -1,0 +1,2 @@
+<?php
+$html = ['I am strong.', 'I am bold'];

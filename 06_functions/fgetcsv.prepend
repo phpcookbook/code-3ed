@@ -1,0 +1,4 @@
+<?php
+$fh = fopen('php://memory','a');
+fputs($fh, "a,b,c,d\n");
+rewind($fh);

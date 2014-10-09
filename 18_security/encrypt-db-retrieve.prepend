@@ -1,0 +1,11 @@
+<?php
+$db = new PDO('sqlite::memory:');
+$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$db->exec('CREATE TABLE noc_list (id INT, algorithm TEXT, data TEXT, mode TEXT, iv TEXT)');
+$algorithm  = MCRYPT_BLOWFISH;
+$mode = MCRYPT_MODE_CBC;
+$iv = mcrypt_create_iv(mcrypt_get_iv_size($algorithm, $mode), MCRYPT_DEV_URANDOM);
+$data = mcrypt_encrypt($algorithm, 'fish', 'food', $mode, $iv);
+$stmt = $db->prepare("INSERT INTO noc_list (id, algorithm, data, mode, iv) VALUES (27, ?, ?, ?, ?)");
+$stmt->execute(array($algorithm, $data, $mode, $iv));
+$_POST['key'] = 'fish';

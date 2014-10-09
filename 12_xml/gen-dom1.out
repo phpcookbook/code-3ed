@@ -1,0 +1,6 @@
+<programlisting><userinput>&lt;?xml version="1.0"?&gt;
+&lt;book&gt;
+  &lt;title edition="3"&gt;PHP Cookbook&lt;/title&gt;
+  &lt;author&gt;Sklar&lt;/author&gt;
+  &lt;author&gt;Trachtenberg&lt;/author&gt;
+&lt;/book&gt;</userinput></programlisting>

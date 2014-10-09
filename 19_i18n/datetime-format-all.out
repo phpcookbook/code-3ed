@@ -1,0 +1,41 @@
+|Type|Character|Description|Example
+|Hour|a|Ante/Post Meridiem designation|PM
+|Hour|h|Hour, 12-hour clock (1 – 12)|3
+|Hour|K|Hour, 12-hour clock (0 – 11)|3
+|Hour|H|Hour, 24-hour clock (0 – 23)|15
+|Hour|k|Hour, 24-hour clock (1 – 24)|15
+|Minute|m|Minute (0 – 59)|8
+|Second|s|Second (0 – 59)|7
+|Second|S|Decisecond (0 – 9)|0
+|Second|SS|Centisecond (00 – 99)|00
+|Second|SSS|Millisecond (000 – 999)|000
+|Second|A|Milliseconds in day|54487000
+|Day|d|Day of month (1 – 31)|18
+|Day|D|Day of year (1 – 366)|78
+|Day|EEEEE|Day of week, short abbreviation|T
+|Day|EEE|Day of week, long abbreviation|Thu
+|Day|EEEE|Day of week, name|Thursday
+|Day|e|Day of week, number (0 or 1 to 6 or 7, localized)|5
+|Day|F|Day of week in the month (e.g., 3 for "third Wednesday")|3
+|Day|g|Modified Julian Day|2453083
+|Week|w|Week of year, with localized week start (1 – 52)|12
+|Week|W|Week of month (1 – 5)|3
+|Month|M|Month (1 – 12)|3
+|Month|MMMMM|Month, short abbreviation|M
+|Month|MMM|Month, long abbreviation|Mar
+|Month|MMMM|Month, name|March
+|Year|y|Year, 4-digit|2004
+|Year|yy|Year, 2-digit|04
+|Time Zone|z|Time zone, including Summer Time, abbreviated|EST
+|Time Zone|zzzz|Time zone, including Summer Time, full name|Eastern Standard Time
+|Time Zone|Z|Time zone, RFC-822 format|-0500
+|Time Zone|ZZZZ|Time zone, as GMT offset|GMT-05:00
+|Time Zone|ZZZZZ|Time zone, ISO-8601 format|GMT-05:00
+|Time Zone|v|Time zone, not including Summer Time, abbreviated|ET
+|Time Zone|vvvv|Time zone, not including Summer Time, full name|Eastern Time
+|Time Zone|VVVV|Time zone, as location|United States Time (New York)
+|Other|Q|Quarter, number|1
+|Other|QQQ|Quarter, number with prefix|Q1
+|Other|QQQQ|Quarter, as words|1st quarter
+|Other|G|Era (BC, AD)|AD
+|Other|''|Two single quotes make one in output|'

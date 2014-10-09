@@ -1,0 +1,13 @@
+<programlisting><userinput>array(3) {
+  ["name"]=&gt;
+  string(5) "frank"
+  [0]=&gt;
+  float(12.6)
+  [1]=&gt;
+  array(2) {
+    [0]=&gt;
+    int(3)
+    [1]=&gt;
+    int(4)
+  }
+}</userinput></programlisting>

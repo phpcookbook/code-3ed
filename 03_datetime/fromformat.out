@@ -1,0 +1,6 @@
+<programlisting><userinput>The default interpretation is Friday, 02-Jan-15 00:00:00 UTC
+  but day-first is Sunday, 01-Feb-15 00:00:00 UTC.
+The default interpretation is Friday, 06-Mar-15 00:00:00 UTC
+  but day-first is Wednesday, 03-Jun-15 00:00:00 UTC.
+The default interpretation is Tuesday, 08-Sep-15 00:00:00 UTC
+  but day-first is Sunday, 09-Aug-15 00:00:00 UTC.</userinput></programlisting>

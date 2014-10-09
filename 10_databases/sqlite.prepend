@@ -1,0 +1,2 @@
+<?php
+if (is_readable('/tmp/zodiac')) { unlink('/tmp/zodiac'); }

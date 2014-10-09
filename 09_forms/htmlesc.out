@@ -1,0 +1,3 @@
+<programlisting language="html">&lt;a href='fletch.html'&gt;Stew's favorite movie.&lt;/a&gt;
+&lt;a href=&#039;fletch.html&#039;&gt;Stew&#039;s favorite movie.&lt;/a&gt;
+&lt;a href='fletch.html'&gt;Stew's favorite movie.&lt;/a&gt;</programlisting>

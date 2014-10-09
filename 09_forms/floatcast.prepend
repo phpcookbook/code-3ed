@@ -1,0 +1,2 @@
+<?php
+$_POST['temperature'] = '12.7';

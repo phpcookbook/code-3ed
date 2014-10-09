@@ -1,0 +1,1 @@
+<programlisting><userinput>. \ + * ? ^ $ [ ] () { } &lt; &gt; = ! | :</userinput></programlisting>

@@ -1,0 +1,7 @@
+<?php
+assert(abs($exp - 6.580885) <= 0.000001, "2^e is about 6.58");
+assert($pow1 === 1024, "2^10 is 1024");
+assert($pow2 === 0.25, "2^-2 is 0.25");
+assert(abs($pow3 - 5.656854) <= 0.000001, "2^2.5 is about 5.656");
+assert($pow4 === 1024, "(-2)^10 is 1024");
+assert(is_nan($pow5), "");

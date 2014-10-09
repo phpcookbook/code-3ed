@@ -1,0 +1,4 @@
+<?php
+$_GET['zipcode'] = ' 02139 ';
+$_GET['text'] = "text\n";
+$_GET['name'] = ' Name ';

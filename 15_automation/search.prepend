@@ -1,0 +1,2 @@
+<?php
+copy(__DIR__ . '/../databases/zodiac.db', "/tmp/zodiac.db");

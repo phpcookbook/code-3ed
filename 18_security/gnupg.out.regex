@@ -1,0 +1,6 @@
+@string\(\d+\) \"-----BEGIN PGP MESSAGE-----
+Version: GnuPG v\d+\.\d+\.\d+ \([a-zA-Z/]+\)
+
+.+?
+-----END PGP MESSAGE-----
+"@s

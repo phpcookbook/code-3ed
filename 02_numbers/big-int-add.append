@@ -1,0 +1,2 @@
+<?php
+assert(bi_to_str($factorial) === '2432902008176640000');

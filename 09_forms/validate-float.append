@@ -1,0 +1,8 @@
+<?php
+assert($response1 === "", $response1);
+assert($response2 === "", $response2);
+assert($response3 === "", $response3);
+assert($response4 === "", $response4);
+assert($response5 === "", $response5);
+assert($response6 === "Submitted price is invalid.", $response6);
+assert($response7 === "Submitted price is invalid.", $response7);

@@ -1,0 +1,7 @@
+en_US {
+    FAVORITE_FOODS { "My favorite food is {0}." }
+    FRIES { french fries }
+    CANDY { candy }
+    CHIPS { potato chips }
+    EGGPLANT { eggplant }
+}

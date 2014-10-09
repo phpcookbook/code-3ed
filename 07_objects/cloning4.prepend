@@ -1,0 +1,2 @@
+<?php
+include __DIR__ . '/cloning3.php';

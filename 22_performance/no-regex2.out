@@ -1,0 +1,2 @@
+preg_match took:  0.000163078308105 seconds
+ctype_alnum took: 9.05990600586E-06 seconds

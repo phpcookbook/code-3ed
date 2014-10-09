@@ -1,0 +1,7 @@
+<?php
+
+$string = 'adam';
+$start = 1;
+$length = 2;
+
+$_GET['username'] = 'atrachtenberg';

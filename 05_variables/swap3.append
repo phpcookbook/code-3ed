@@ -1,0 +1,4 @@
+<?php
+assert($yesterday == 'sorrow');
+assert($today == 'celebrate');
+assert($tomorrow == 'pleasure');

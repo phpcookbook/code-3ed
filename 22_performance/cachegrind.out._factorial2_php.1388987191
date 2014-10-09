@@ -1,0 +1,807 @@
+version: 1
+creator: xdebug 2.2.3
+cmd: /Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+part: 1
+positions: line
+
+events: Time
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 39
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 13
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 14
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 8
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 20
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 8
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 12
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 20
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 18
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 15
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 17
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 16
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 19
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 22
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 20
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 17
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 8
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 1
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn=factorial
+2 8
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+7 0
+
+fl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+fn={main}
+
+summary: 1322
+
+1 658
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 39
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 14
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 15
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 12
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 20
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 13
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 21
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 19
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 16
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 19
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 18
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 20
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 13
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 11
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 22
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 21
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 9
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 17
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 10
+cfl=/Users/atrachte/Source/php-cookbook/1234000000702/performance/factorial2.php
+cfn=factorial
+calls=1 0 0
+13 9
+

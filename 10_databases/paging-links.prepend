@@ -1,0 +1,4 @@
+<?php include __DIR__ . '/zodiac.prepend';
+$_GET['offset'] = 2;
+include __DIR__ . '/printlink.php';
+include __DIR__ . '/indexedlinks.php';

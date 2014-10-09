@@ -1,0 +1,18 @@
+array (
+  'name' => 'Leo Bloom',
+  'username' => 'leo',
+  'friend' => 
+  array (
+    'name' => 'Max Bialystock',
+    'username' => 'max',
+    'friend' => 
+    array (
+      'name' => 'Leo Bloom',
+      'username' => 'leo',
+      'friend' => NULL,
+      'job' => 'Accountant',
+    ),
+    'job' => 'Swindler',
+  ),
+  'job' => 'Accountant',
+)

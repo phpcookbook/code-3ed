@@ -1,0 +1,5 @@
+<?php
+
+touch('larry.php');
+touch('moe.php');
+touch('curly.php');

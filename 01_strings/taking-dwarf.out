@@ -1,0 +1,10 @@
+<programlisting><userinput>Array
+(
+    [0] =&gt; dopey
+    [1] =&gt; sleepy
+    [2] =&gt; happy
+    [3] =&gt; grumpy
+    [4] =&gt; sneezy
+    [5] =&gt; bashful
+    [6] =&gt; doc
+)</userinput></programlisting>

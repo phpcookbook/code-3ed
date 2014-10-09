@@ -1,0 +1,20 @@
+<?php
+assert($jd === 2456625, "Julian day count is 2456625");
+assert($jewish === array('date' => '3/25/5774',
+                         'month' => 3,
+                         'day' => 25,
+                         'year' => 5774,
+                         'dow' => 4,
+                         'abbrevdayname' => 'Thu',
+                         'dayname' => 'Thursday',
+                         'abbrevmonth' => 'Kislev',
+                         'monthname' => 'Kislev'));
+assert($gregorian === array('date' => '11/28/2013',
+                            'month' => 11,
+                            'day' => 28,
+                            'year' => 2013,
+                            'dow' => 4,
+                            'abbrevdayname' => 'Thu',
+                            'dayname' => 'Thursday',
+                            'abbrevmonth' => 'Nov',
+                            'monthname' => 'November'));

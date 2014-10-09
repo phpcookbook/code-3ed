@@ -1,0 +1,3 @@
+<?php
+assert($formatted1 === "1,234.56");
+assert($formatted2 == "1 234,56");

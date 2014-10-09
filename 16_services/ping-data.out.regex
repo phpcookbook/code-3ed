@@ -1,0 +1,4 @@
+@Ping of www.oreilly.com \(\d+\.\d+\.\d+\.\d+\)
+with 3 requests had
+a minimum time of \d+\.\d+ ms and
+a maximum time of \d+\.\d+ ms.@

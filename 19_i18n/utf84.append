@@ -1,0 +1,2 @@
+<?php
+var_dump($encoded_name, $encoded_dinner);

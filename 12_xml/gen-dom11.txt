@@ -1,0 +1,2 @@
+// print a nicely formatted version of the DOM document as XML
+$dom->formatOutput = true;

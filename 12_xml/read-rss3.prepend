@@ -1,0 +1,4 @@
+<?php
+
+require __DIR__ . '/read-rss2.prepend';
+require __DIR__ . '/read-rss2.php';

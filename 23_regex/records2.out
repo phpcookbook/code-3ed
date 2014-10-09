@@ -1,0 +1,13 @@
+<programlisting><emphasis role="bold">array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(7) "Gödel
+"
+  [2]=>
+  string(7) "Escher
+"
+  [3]=>
+  string(5) "Bach
+"
+}</emphasis></programlisting>

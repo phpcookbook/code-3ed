@@ -1,0 +1,4 @@
+
+<programlisting language="php">&lt;p&gt;I like &lt;span class="word-0"&gt;pickle&lt;/span&gt;s and &lt;span class="word-1"&gt;herring<?pdf-cr?>&lt;/span&gt;.&lt;/p&gt;
+&lt;a href="pickle.php"&gt;&lt;img src="pickle.jpg" /&gt;A &lt;span class="word-0"&gt;pickle<?pdf-cr?>&lt;/span&gt; picture&lt;/a&gt; I
+have a &lt;span class="word-1"&gt;herring&lt;/span&gt;bone-patterned toaster cozy. <?pdf-cr?>&lt;span class="word-1"&gt;herring&lt;/span&gt; is not a real HTML element!</programlisting>

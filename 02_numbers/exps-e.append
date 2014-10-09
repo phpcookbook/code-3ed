@@ -1,0 +1,2 @@
+<?php
+assert(abs($exp - 7.3890560989) <= 0.00001, "e squared is about 7.389");

@@ -1,0 +1,3 @@
+<?php
+$_GET['search_term'] = '10/*4';
+$s = 'hi, 10/*4feet blub';

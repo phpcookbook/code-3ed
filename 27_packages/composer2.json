@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpunit/php-code-coverage": "2.1.*"
+    }
+}

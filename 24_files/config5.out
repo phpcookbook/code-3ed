@@ -1,0 +1,16 @@
+Array
+(
+    [physical] => Array
+        (
+            [eyes] => brown
+            [hair] => brown
+            [glasses] => 1
+        )
+
+    [other] => Array
+        (
+            [name] => Susannah
+            [likes] => monkeys,ice cream,reading
+        )
+
+)

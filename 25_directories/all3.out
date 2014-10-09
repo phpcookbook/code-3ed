@@ -1,0 +1,4 @@
+<select name='file'>
+<option>cucumber.gif</option>
+<option>eggplant.png</option>
+</select>

@@ -1,0 +1,39 @@
+<programlisting><userinput>Array
+(
+    [0] => Array
+        (
+            [host] =&gt; ds-any-fp3-real.wa1.b.yahoo.com
+            [type] =&gt; AAAA
+            [ipv6] =&gt; 2001:4998:f00b:1fe::3001
+            [class] =&gt; IN
+            [ttl] =&gt; 34
+        )
+
+    [1] =&gt; Array
+        (
+            [host] =&gt; ds-any-fp3-real.wa1.b.yahoo.com
+            [type] =&gt; AAAA
+            [ipv6] =&gt; 2001:4998:f00d:1fe::3001
+            [class] =&gt; IN
+            [ttl] =&gt; 34
+        )
+
+    [2] =&gt; Array
+        (
+            [host] =&gt; ds-any-fp3-real.wa1.b.yahoo.com
+            [type] =&gt; AAAA
+            [ipv6] =&gt; 2001:4998:f00d:1fe::3000
+            [class] =&gt; IN
+            [ttl] =&gt; 34
+        )
+
+    [3] =&gt; Array
+        (
+            [host] =&gt; ds-any-fp3-real.wa1.b.yahoo.com
+            [type] =&gt; AAAA
+            [ipv6] =&gt; 2001:4998:f00b:1fe::3000
+            [class] =&gt; IN
+            [ttl] =&gt; 34
+        )
+
+)</userinput></programlisting>

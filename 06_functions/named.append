@@ -1,0 +1,3 @@
+<?php
+assert($image1 === '<img src="cow.png" alt="cows say moo"/>');
+assert($image2 === '<img src="pig.jpeg" alt=""/>');

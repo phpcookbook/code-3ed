@@ -1,0 +1,3 @@
+<?php
+assert(TRUE === $ake_result, "array_key_exists() returns TRUE because the key is present.");
+assert(FALSE === $isset_result, "isset() returns values because the key's value is NULL");

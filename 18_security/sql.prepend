@@ -1,0 +1,6 @@
+<?php
+$dsn = 'sqlite::memory:';
+$_SERVER['DB_USER'] = $_SERVER['DB_PASSWORD'] = 'blub';
+$clean = array('username' => 'hi', 'password' => 'there');
+$db = new PDO('sqlite::memory:');
+$db->exec('CREATE TABLE users (username TEXT, password TEXT)');

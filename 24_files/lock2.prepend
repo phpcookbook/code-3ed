@@ -1,0 +1,2 @@
+<?php
+$_POST['guestbook_entry'] = 'hi!';

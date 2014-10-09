@@ -1,0 +1,3 @@
+GET /people/rasmus HTTP/1.1
+Host: api.example.com
+Accept: application/json,text/html

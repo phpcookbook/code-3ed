@@ -1,0 +1,6 @@
+@<form method="post" action=".+?"
+      onsubmit="document.getElementById\('submit-button'\).disabled = true;">
+<!-- insert all the normal form elements you need -->
+<input type='hidden' name='token' value='[a-f0-9]+'/>
+<input type='submit' value='Save Data' id='submit-button'/>
+</form>@

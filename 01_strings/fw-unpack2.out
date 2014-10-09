@@ -1,0 +1,31 @@
+Array
+(
+    [0] => Array
+        (
+            [title] => Elmer Gantry
+            [author] => Sinclair Lewis
+            [publication_year] => 1927
+        )
+
+    [1] => Array
+        (
+            [title] => The Scarlatti Inheritance
+            [author] => Robert Ludlum
+            [publication_year] => 1971
+        )
+
+    [2] => Array
+        (
+            [title] => The Parsifal Mosaic
+            [author] => Robert Ludlum
+            [publication_year] => 1982
+        )
+
+    [3] => Array
+        (
+            [title] => Sophie's Choice
+            [author] => William Styron
+            [publication_year] => 1979
+        )
+
+)

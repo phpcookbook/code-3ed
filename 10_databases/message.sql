@@ -1,0 +1,11 @@
+CREATE TABLE message (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  posted_on DATETIME NOT NULL,
+  author CHAR(255),
+  subject CHAR(255),
+  body MEDIUMTEXT,
+  thread_id INT UNSIGNED NOT NULL,
+  parent_id INT UNSIGNED NOT NULL,
+  level INT UNSIGNED NOT NULL,
+  thread_pos INT UNSIGNED NOT NULL
+);

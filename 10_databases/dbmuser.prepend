@@ -1,0 +1,4 @@
+<?php
+unlink('/tmp/users.db');
+$_SERVER['argv'][1] = 'alice';
+$_SERVER['argv'][2] = 'bob';

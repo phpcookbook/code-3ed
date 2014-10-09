@@ -1,0 +1,3 @@
+<?php
+
+$filename = __DIR__ . '/fputcsv-print.out';

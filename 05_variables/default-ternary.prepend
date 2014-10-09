@@ -1,0 +1,2 @@
+<?php
+$default_cars = 12;

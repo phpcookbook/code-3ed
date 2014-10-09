@@ -1,0 +1,5 @@
+<?php
+$dom = new DomDocument;
+$dom->load(__DIR__ . '/parse-complex2.xml');
+
+

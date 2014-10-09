@@ -1,0 +1,5 @@
+<?php 
+$sales_data = array();
+$sales_data[] = array('North', '2010', '2011', '19.95');
+$sales_data[] = array('East', '2010', '2011', '24.95');
+

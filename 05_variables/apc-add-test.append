@@ -1,0 +1,2 @@
+<?php
+assert($u === array('harry','ralph'));

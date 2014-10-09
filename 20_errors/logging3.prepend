@@ -1,0 +1,3 @@
+<?php
+function mysql_query($arg) { return false; }
+$sql = '';

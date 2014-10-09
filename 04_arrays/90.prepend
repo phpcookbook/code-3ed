@@ -1,0 +1,5 @@
+<?php
+$access_times = [];
+class dates {
+    static public function compare($a, $b) {}
+}

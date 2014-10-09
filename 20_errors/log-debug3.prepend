@@ -1,0 +1,3 @@
+<?php
+function pc_debug($arg) { }
+function mysql_query($arg) { }

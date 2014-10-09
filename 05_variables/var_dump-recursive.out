@@ -1,0 +1,28 @@
+array(4) {
+  ["name"]=>
+  string(9) "Leo Bloom"
+  ["username"]=>
+  string(3) "leo"
+  ["friend"]=>
+  &array(4) {
+    ["name"]=>
+    string(14) "Max Bialystock"
+    ["username"]=>
+    string(3) "max"
+    ["friend"]=>
+    &array(4) {
+      ["name"]=>
+      string(9) "Leo Bloom"
+      ["username"]=>
+      string(3) "leo"
+      ["friend"]=>
+      *RECURSION*
+      ["job"]=>
+      string(10) "Accountant"
+    }
+    ["job"]=>
+    string(8) "Swindler"
+  }
+  ["job"]=>
+  string(10) "Accountant"
+}

@@ -1,0 +1,4 @@
+<?php
+function ldap_errno($arg) { return false; }
+function ldap_error($arg) { }
+$ldap = NULL;

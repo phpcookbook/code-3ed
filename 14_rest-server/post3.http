@@ -1,0 +1,8 @@
+<programlisting><userinput>HTTP/1.1 201 Created
+Location: https://api.example.com/jobs/456
+Content-Type: application/json
+Content-Length: 15</userinput>
+
+{
+    "id": 456
+}</programlisting>

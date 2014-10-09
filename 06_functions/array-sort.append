@@ -1,0 +1,2 @@
+<?php
+assert($files === array('ziggy.txt', 'frank.mov','11pants.org','10steps.doc'));

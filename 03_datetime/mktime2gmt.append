@@ -1,0 +1,3 @@
+<?php
+assert($stamp_future == 1733239500, "Expected $stamp_future to be 1733239500");
+assert(($stamp_future - 1733257500) == -18000);

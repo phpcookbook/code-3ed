@@ -1,0 +1,7 @@
+<?php
+assert($a === 27);
+assert($b === 27);
+assert($c === 27);
+assert($d === '11011');
+assert($e === '33');
+assert($f === '1b');

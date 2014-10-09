@@ -1,0 +1,2 @@
+<?php
+$animals = array('ant', 'bee', 'cat', 'dog', 'elk', 'fox');

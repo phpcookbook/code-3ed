@@ -1,0 +1,5 @@
+<?php
+
+$divClass = "class1";
+$ulClass = "class2";
+$listItem = " The List Item ";

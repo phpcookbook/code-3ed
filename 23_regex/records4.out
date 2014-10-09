@@ -1,0 +1,8 @@
+array(3) {
+  [0]=>
+  string(6) "Gödel"
+  [1]=>
+  string(6) "Escher"
+  [2]=>
+  string(4) "Bach"
+}

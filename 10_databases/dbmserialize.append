@@ -1,0 +1,2 @@
+<?php
+if (is_readable('/users.db')) { unlink('/users.db'); }

@@ -1,0 +1,4 @@
+<?php
+
+assert($permissions === '100644');
+unlink('/tmp/session.txt');

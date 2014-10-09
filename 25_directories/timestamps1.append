@@ -1,0 +1,5 @@
+<?php
+
+unlink('larry.php');
+unlink('moe.php');
+unlink('curly.php');

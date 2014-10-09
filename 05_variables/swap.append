@@ -1,0 +1,3 @@
+<?php
+assert($a === 'Bob');
+assert($b === 'Alice');

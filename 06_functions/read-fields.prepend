@@ -1,0 +1,5 @@
+<?php
+$filename = '';
+function read_fields() {
+         return array();
+}

@@ -1,0 +1,1 @@
+/stereo.php?speakers=12&cdplayer=52&=10

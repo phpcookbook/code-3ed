@@ -1,0 +1,3 @@
+<?php
+
+$timestamp = time() - 10000;
