@@ -8,6 +8,7 @@ Each directory contains the code examples from a chapter of the book.
 Each code example is generally in a *.php file. For a given example, there may be some other files with the same basename but different extensions that indicate certain things about the code example -- expected output, special INI settings required, etc.
 
 | Extension | Meaning |
+|------|------|
 | `php` | The code itself |
 | `prepend` | The code expects this file to be the `auto_prepend_file` |
 | `append` | The code expects this file to be the `auto_append_file` |
